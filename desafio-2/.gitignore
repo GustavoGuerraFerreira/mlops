@@ -1,5 +1,0 @@
-# Ignore a pasta mlruns (artefatos do MLflow)
-mlruns/
-
-# Ignore a pasta venv (ambiente virtual)
-venv/
